@@ -1,36 +1,100 @@
-# privacy-policy-quiz-app.html
-Privacy Policy URL
-Privacy Policy — Quiz App
-Effective date: 2025-10-03
-Quiz App ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application.
+#Privacy Policy – US Citizenship Quiz
+
+Last updated: February 7, 2026
+
+This Privacy Policy describes how US Citizenship Quiz (“the app”) collects, uses, and shares information when you use the application.
 
 1. Information We Collect
-Device & usage data: device model, OS version, app interactions, crash/analytics data.
-Advertising data: via Google AdMob, which may use your Advertising ID to serve personalized or non‑personalized ads.
-Purchase data: records related to in‑app purchases (e.g., unlocking premium features). Google Play processes payments; we do not receive or store your card numbers.
-2. How We Use Information
-To operate and improve the app experience;
-To show ads (through Google AdMob);
-To enable and verify in‑app purchases through Google Play Billing.
-To ensure security and prevent abuse.
-3. Third‑Party Services
-We rely on the following providers, who may process data in accordance with their own policies:
 
-Google (AdMob & Google Play Services)
-4. Children’s Privacy
-Our app is not directed to children under 13. We do not knowingly collect personal data from children. If you believe a child has provided personal information, please don't hesitate to contact us, and we will delete it.
+The app does not require user accounts and does not collect personal information such as name, email, or phone number.
 
-5. Your Choices
-To opt out of personalized ads, open Google Settings > Ads and choose Opt out of Ads Personalization.
-You may uninstall the app to stop data collection and processing.
-Please feel free to contact us to request the deletion of crash/analytics identifiers under our control.
-6. Data Security
-We use commercially reasonable safeguards to protect information. However, no method of transmission or storage is entirely secure.
+However, the app may collect limited, non-personal data through third-party services used to operate and improve the app.
 
-7. Changes to This Policy
-We reserve the right to update this Privacy Policy from time to time. The “Effective date” above indicates the latest revision.
+Automatically collected information may include:
 
-8. Contact Us
+Device information (such as device model, operating system version)
+
+Advertising identifiers (such as Google Advertising ID)
+
+App interaction data (e.g., ad views, quiz usage)
+
+2. Advertising (Google AdMob)
+
+The app uses Google AdMob to display ads, including rewarded ads.
+
+Google AdMob may:
+
+Collect device identifiers
+
+Use cookies or similar technologies
+
+Personalize ads based on user interests (where permitted by law)
+
+You can learn how Google manages data in advertising here:
+👉 https://policies.google.com/technologies/ads
+
+3. In-App Purchases & Subscriptions
+
+The app offers optional subscriptions through Google Play Billing to remove ads and unlock full features.
+
+All payments are processed securely by Google Play
+
+The app does not store or process payment information
+
+Purchase status is stored locally on the device
+
+Learn more about Google Play Billing privacy:
+👉 https://policies.google.com/privacy
+
+4. Data Storage
+
+The app stores limited data locally on your device using SharedPreferences, such as:
+
+Premium status
+
+Demo usage limits
+
+Rewarded ad cooldown timing
+
+This data never leaves your device and is not shared with the developer.
+
+5. Children’s Privacy
+
+This app is not directed at children under the age of 13.
+
+The app does not knowingly collect personal information from children.
+If you believe a child has provided personal data, please contact the developer.
+
+6. Data Sharing
+
+The app does not sell, trade, or share personal data with third parties.
+
+Data may be shared only as required to:
+
+Serve ads (Google AdMob)
+
+Process purchases (Google Play Billing)
+
+Comply with legal obligations
+
+7. User Choices
+
+Users can:
+
+Limit ad personalization in device settings
+
+Manage or cancel subscriptions through Google Play
+
+Stop using the app at any time by uninstalling it
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+Any changes will be posted on this page with an updated date.
+
+9. Contact Information
+
+If you have questions or concerns about this Privacy Policy, contact:
+
+Developer: Oscar Melendez
 Email: ormelendez74@gmail.com
-
-© 2025 Quiz App. This page is provided for Google Play disclosure purposes.
